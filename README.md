@@ -43,7 +43,6 @@ of each Attribute, ”Amount” is the amount of each transaction, and the final
 2. Logistic Regression (L.R.)
 3. Decision Tree (D.T.)
 
-
 <br>
 <br>
 
