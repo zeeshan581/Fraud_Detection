@@ -14,8 +14,8 @@ https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 We trained and evaluated the following machine learning models:
 
-Logistic Regression
-Random Forest Classifier
+Logistic Regression,
+Random Forest Classifier,
 K-Means Clustering (unsupervised baseline)
 
 <br>
